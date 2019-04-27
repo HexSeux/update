@@ -1,1 +1,1 @@
-HerseuxTools v1.0
+HerseuxTools v2.0
